@@ -23,3 +23,7 @@ Frontend: HTML5, CSS3, JavaScript (ES6+)
 Styling: Grid, CSS Animations
 
 Version Control: Git & GitHub
+
+**Live Demo**
+
+https://soumya-responsive-portfolio.netlify.app/
